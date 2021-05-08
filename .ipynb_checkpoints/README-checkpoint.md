@@ -1,8 +1,4 @@
 # Digital Banking and Financial Infrastructure
-![alt text](Images/image_1.jpg)
-*(ref: https://www.forbes.com/advisor/banking/what-is-fintech/)*
----
-
 ## Banking for Businesses in America
 * NorthOne https://www.northone.com/about/team
 * Founded in 2017
@@ -10,4 +6,3 @@
 * late nights with gallons of coffee, covered in sticky notes in front of a white board led to the discovery of this company.
 *
 *
-
