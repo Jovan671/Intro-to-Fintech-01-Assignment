@@ -1,6 +1,6 @@
 # Digital Banking and Financial Infrastructure
 ![alt text](Images/image_1.jpg)
-*(ref: https://www.forbes.com/advisor/banking/what-is-fintech/)*
+<span style="font-size:8px">*(ref: https://www.forbes.com/advisor/banking/what-is-fintech/)*</span>
 ---
 
 ## Banking for Businesses in America
