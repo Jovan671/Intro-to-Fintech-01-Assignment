@@ -1,10 +1,10 @@
 # NorthOne : Digital Banking And Financial Infrastructure.
 ![alt text](Images/image_1.jpg)
-<span style="font-size:8px">*(https://pitchbook.com/profiles/company/170256-79#overview https://www.forbes.com/advisor/banking/what-is-fintech/)*</span>
+<span style="font-size:4px">*(https://pitchbook.com/profiles/company/170256-79#overview https://www.forbes.com/advisor/banking/what-is-fintech/)*</span>
 ---
 
 ## Banking For Businesses in America
-* **NorthOne Business Banking**.<span style="font-size:8px">*(ref: https://www.northone.com/about/team0)*</span>
+* **NorthOne Business Banking**.<span style="font-size:4px">*(ref: https://www.northone.com/about/team0)*</span>
 * Founded in 2017
 * Founded by Etan Bensoussan and Justin Adler
 * late nights with gallons of coffee, covered in sticky notes in front of a white board led to the discovery of this company.
@@ -12,7 +12,7 @@
 ---
 
 ## NorthOne Business Activities
-* Better Business Bureau has a number of registered customer complaints on its site regarding funds being held illegaly or customers being charged for unwanted transactions by NorthOne. NorthOne has answered these complaints stating how they have dealt with these issues. NorthOne is not a Better Business Bureau accredited company.<span style="font-size:8px">*(ref : https://www.bbb.org/us/ca/los-angeles/profile/bank/northone-business-banking-1216-1268118/complaints)*</span>
+* Better Business Bureau has a number of registered customer complaints on its site regarding funds being held illegaly or customers being charged for unwanted transactions by NorthOne. NorthOne has answered these complaints stating how they have dealt with these issues. NorthOne is not a Better Business Bureau accredited company.<span style="font-size:4px">*(ref : https://www.bbb.org/us/ca/los-angeles/profile/bank/northone-business-banking-1216-1268118/complaints)*</span>
 * NorthOne's intended customers are business owners who are focused on growing a successful bisiness. Since their launch in 2019 NorthOne has signed 170,000 small businesses along with freelancers.
 * NorthOne is making a more transparent form of banking for business and keeping in constant contact with their customers with open communication on how to make their pruduct better and making sure their apps that are being used for NorthOne are always evolving. This takes an advantage over banks who sometimes feel like the enemy to some businesses.
 * NorthOne has created a technological environment for its customers which are available on iOS, Android, and on your desktop. They are implementing the way the technology is developed for their customers by keeping a personal line of communication with their customers and use the feedback to create tools that meets their needs in an evolving way.
