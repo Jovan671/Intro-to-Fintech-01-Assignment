@@ -21,7 +21,9 @@
 ---
 
 ## ![alt text](Images/image_3.jpg)
-<span style="font-size:8px">*(ref : https://images.app.goo.gl/wawZ8FdiGwgQdsud8)*</span>
+
+*<span style="font-size:8px">(ref : https://images.app.goo.gl/wawZ8FdiGwgQdsud8)</span>*
+
 ---
 * NorthOne, formerly known as Ferst Digital is a privately owned company with privately held backing, and their financial status is backed by Venture Capital. They are keeping up to trends in the domain of Digital Banking in the financial industry through API-based platforms that manages finances and intigrate financial tools in one place.<span style="font-size:8px">*(ref : https://pitchbook.com/profiles/company/170256-79#overview)*https://www.pendo.io/pendo-blog/measuring-digital-banking-efforts-with-product-analytics/
 * NorthOne has raised $23.3 million over four rounds and their last round was March 10, 2020. NorthOne has been funded by 8 investors they are Tom Williams, Heron Rock Fund, Battery Ventures, Peter Graham, Hedge wood, and Redpoint and Conconi growth partners are the lastest ones.<span style="font-size:8px">*(ref : https://www.crunchbase.com/organization/northone/company_financials)*</span>
