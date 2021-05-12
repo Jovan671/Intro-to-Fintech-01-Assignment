@@ -1,6 +1,6 @@
 # NorthOne : Digital Banking And Financial Infrastructure.
 ![alt text](Images/image_1.jpg)
-<span style="font-size:8px">*(https://pitchbook.com/profiles/company/170256-79#overview https://www.forbes.com/advisor/banking/what-is-fintech/)*</span>
+*<span style="font-size:8px">(https://pitchbook.com/profiles/company/170256-79#overview https://www.forbes.com/advisor/banking/what-is-fintech/)</span>*
 ---
 
 ## Banking For Businesses in America
